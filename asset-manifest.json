@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ieUlysses/countries-task/static/css/main.638021c1.chunk.css",
-    "main.js": "/ieUlysses/countries-task/static/js/main.4f8c942b.chunk.js",
-    "main.js.map": "/ieUlysses/countries-task/static/js/main.4f8c942b.chunk.js.map",
-    "runtime-main.js": "/ieUlysses/countries-task/static/js/runtime-main.4058ba6f.js",
-    "runtime-main.js.map": "/ieUlysses/countries-task/static/js/runtime-main.4058ba6f.js.map",
-    "static/js/2.782e88bc.chunk.js": "/ieUlysses/countries-task/static/js/2.782e88bc.chunk.js",
-    "static/js/2.782e88bc.chunk.js.map": "/ieUlysses/countries-task/static/js/2.782e88bc.chunk.js.map",
-    "static/js/3.867671f2.chunk.js": "/ieUlysses/countries-task/static/js/3.867671f2.chunk.js",
-    "static/js/3.867671f2.chunk.js.map": "/ieUlysses/countries-task/static/js/3.867671f2.chunk.js.map",
-    "index.html": "/ieUlysses/countries-task/index.html",
-    "static/css/main.638021c1.chunk.css.map": "/ieUlysses/countries-task/static/css/main.638021c1.chunk.css.map",
-    "static/js/2.782e88bc.chunk.js.LICENSE.txt": "/ieUlysses/countries-task/static/js/2.782e88bc.chunk.js.LICENSE.txt"
+    "main.css": "/github.io/countries-task/static/css/main.638021c1.chunk.css",
+    "main.js": "/github.io/countries-task/static/js/main.cea9b2f7.chunk.js",
+    "main.js.map": "/github.io/countries-task/static/js/main.cea9b2f7.chunk.js.map",
+    "runtime-main.js": "/github.io/countries-task/static/js/runtime-main.97ec3209.js",
+    "runtime-main.js.map": "/github.io/countries-task/static/js/runtime-main.97ec3209.js.map",
+    "static/js/2.782e88bc.chunk.js": "/github.io/countries-task/static/js/2.782e88bc.chunk.js",
+    "static/js/2.782e88bc.chunk.js.map": "/github.io/countries-task/static/js/2.782e88bc.chunk.js.map",
+    "static/js/3.867671f2.chunk.js": "/github.io/countries-task/static/js/3.867671f2.chunk.js",
+    "static/js/3.867671f2.chunk.js.map": "/github.io/countries-task/static/js/3.867671f2.chunk.js.map",
+    "index.html": "/github.io/countries-task/index.html",
+    "static/css/main.638021c1.chunk.css.map": "/github.io/countries-task/static/css/main.638021c1.chunk.css.map",
+    "static/js/2.782e88bc.chunk.js.LICENSE.txt": "/github.io/countries-task/static/js/2.782e88bc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4058ba6f.js",
+    "static/js/runtime-main.97ec3209.js",
     "static/js/2.782e88bc.chunk.js",
     "static/css/main.638021c1.chunk.css",
-    "static/js/main.4f8c942b.chunk.js"
+    "static/js/main.cea9b2f7.chunk.js"
   ]
 }
